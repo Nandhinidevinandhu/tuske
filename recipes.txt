@@ -4,3 +4,7 @@ recipes list
 Dosa
 Idly
 Burger
+
+juices
+Tea
+coffee
