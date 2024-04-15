@@ -8,3 +8,7 @@ Burger
 juices
 Tea
 coffee
+
+pani puri
+bhel puri
+mushroom fry
